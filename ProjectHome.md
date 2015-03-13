@@ -1,0 +1,1 @@
+SigHack is a common environment for academical institutions. It enable to control and administrate all the tasks of an university, i.e., create new courses, enroll new students, store documents and class notes, etc.
